@@ -1,5 +1,4 @@
-export default function Home() {
-  return (
-        <div>Hello World</div>
-  );
+export default function HomePage()
+{
+  return (<div>Hello World, This is my first App</div>);
 }
