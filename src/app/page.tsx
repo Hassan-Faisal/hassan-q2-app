@@ -1,4 +1,4 @@
-export default function HomePage()
+export default function MyHomePage()
 {
-  return (<div>Hello, This is my First App</div>);
-}  
+  return (<div> Hello, I am Hassan and this is my first Next.js project.</div>);
+}
